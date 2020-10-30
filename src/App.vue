@@ -1,28 +1,40 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <router-view></router-view>
+    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+    
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
+    
+  },
+};
+
+window.onscroll = () => {
+  if (
+    document.body.scrollTop > 200 ||
+    document.documentElement.scrollTop > 200
+  ) {
+    document.getElementsByClassName("header")[0].style.backgroundColor =
+      "#261f44";
+  } else {
+    document.getElementsByClassName("header")[0].style.backgroundColor =
+      "transparent";
   }
-}
+};
+// $('.carousel').carousel({ interval: 500 });
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: Avenir, Helvetica, Arial, sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

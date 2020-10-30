@@ -1,0 +1,168 @@
+{
+  "Category": [
+    {
+      "CategoryId": 1,
+      "Name": "Homepages",
+      "Description": "From rich starting points to simple single pagers, anything is possible.",
+      "Themes": [
+        {
+          "ThemeId": 1,
+          "Name": "CEO - Coaching Caoch",
+          "Avatar": "slide-img-4.png"
+        },
+        {
+          "ThemeId": 2,
+          "Name": "Life Coaching - Caoch",
+          "Avatar": "slide-img-2.png"
+        },
+        {
+          "ThemeId": 3,
+          "Name": "Business Coaching - Caoch",
+          "Avatar": "slide-img-3.png"
+        },
+        {
+          "ThemeId": 4,
+          "Name": "Caoch",
+          "Avatar": "slide-img-1.png"
+        }
+      ]
+    },
+    {
+      "CategoryId": 2,
+      "Name": "Help Center",
+      "Description": "Help Center was designed to be simple for you support",
+      "Themes": [
+        {
+          "ThemeId": 5,
+          "Name": "Home - Help Center",
+          "Avatar": "help-center-img-1.jpg"
+        },
+        {
+          "ThemeId": 6,
+          "Name": "Category - Help Center",
+          "Avatar": "help-center-img-2.jpg"
+        },
+        {
+          "ThemeId": 7,
+          "Name": "Singlepage - Help Center",
+          "Avatar": "help-center-img-3.jpg"
+        },
+
+        {
+          "ThemeId": 8,
+          "Name": "Profile Page - Help Center Team",
+          "Avatar": "help-center-img-4.jpg"
+        }
+      ]
+    },
+    {
+      "CategoryId": 3,
+      "Name": "Shop pages",
+      "Description": "Check our examples of high-converting e-commerce product pages. ",
+      "Themes": [
+        {
+          "ThemeId": 9,
+          "Name": "Product Page - Coach",
+          "Avatar": "shop-img-1.jpg"
+        },
+        {
+          "ThemeId": 10,
+          "Name": "Product Details Page - Coach",
+          "Avatar": "shop-img-2.jpg"
+        }
+      ]
+    },
+    {
+      "CategoryId": 4,
+      "Name": "Dashboard",
+      "Description": "Dashboard pages can be used for building all kind of web applications.",
+      "Themes": [
+        {
+          "ThemeId": 11,
+          "Name": "Dashboard Profile - Coach",
+          "Avatar": "help-center-img-1.jpg"
+        },
+        {
+          "ThemeId": 12,
+          "Name": "Dashboard Subscription Plan - Coach",
+          "Avatar": "help-center-img-1.jpg"
+        }
+      ]
+    }
+  ],
+  "Theme": [
+    {
+      "ThemeId": 1,
+      "CategoryId": 1,
+      "Name": "CEO - Coaching Caoch",
+      "Avatar": "slide-img-4.png"
+    },
+    {
+      "ThemeId": 2,
+      "CategoryId": 1,
+      "Name": "Life Coaching - Caoch",
+      "Avatar": "slide-img-2.png"
+    },
+    {
+      "ThemeId": 3,
+      "CategoryId": 1,
+      "Name": "Business Coaching - Caoch",
+      "Avatar": "slide-img-3.png"
+    },
+    {
+      "ThemeId": 4,
+      "CategoryId": 1,
+      "Name": "Caoch",
+      "Avatar": "slide-img-1.png"
+    },
+    {
+      "ThemeId": 5,
+      "CategoryId": 2,
+      "Name": "Home - Help Center",
+      "Avatar": "help-center-img-1.jpg"
+    },
+    {
+      "ThemeId": 6,
+      "CategoryId": 2,
+      "Name": "Category - Help Center",
+      "Avatar": "help-center-img-2.jpg"
+    },
+    {
+      "ThemeId": 7,
+      "CategoryId": 2,
+      "Name": "Singlepage - Help Center",
+      "Avatar": "help-center-img-3.jpg"
+    },
+
+    {
+      "ThemeId": 8,
+      "CategoryId": 2,
+      "Name": "Profile Page - Help Center Team",
+      "Avatar": "help-center-img-4.jpg"
+    },
+    {
+      "ThemeId": 9,
+      "CategoryId": 3,
+      "Name": "Product Page - Coach",
+      "Avatar": "shop-img-1.jpg"
+    },
+    {
+      "ThemeId": 10,
+      "CategoryId": 3,
+      "Name": "Product Details Page - Coach",
+      "Avatar": "shop-img-2.jpg"
+    },
+    {
+      "ThemeId": 11,
+      "CategoryId": 4,
+      "Name": "Dashboard Profile - Coach",
+      "Avatar": "help-center-img-1.jpg"
+    },
+    {
+      "ThemeId": 12,
+      "CategoryId": 4,
+      "Name": "Dashboard Subscription Plan - Coach",
+      "Avatar": "help-center-img-1.jpg"
+    }
+  ]
+}
